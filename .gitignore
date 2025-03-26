@@ -1,5 +1,4 @@
 .env
 /__pycache__/
 /.langgraph_api/
-/open-research-ANA
 .gitignore
